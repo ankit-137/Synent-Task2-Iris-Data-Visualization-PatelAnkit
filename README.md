@@ -1,6 +1,5 @@
-# Synent-Task2-Iris-Data-Visualization-PatelAnkit
-Data Visualization using the Iris Dataset. Created bar chart, histogram, scatter plot, and feature comparison visualizations using Python, Pandas, and Matplotlib as part of Synent Technologies Data…
-
+# Synent-Task2-Iris-Data-Visualization-Mahidahardiksinh
+Data Visualization using the Iris Dataset. Created bar chart, histogram, scatter plot, and feature comparison visualizations using Python, Pandas, and Matplotlib as part of Synent Technologies Data Science Internship.
 
 
 # Iris Data Visualization
